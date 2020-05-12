@@ -1,0 +1,17 @@
+﻿<Application x:Class="WPFconceptenDataGrid.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WPFconceptenDataGrid" 
+             xmlns:sys="clr-namespace:System;assembly=mscorlib"
+             StartupUri="EventsWindow.xaml">
+    
+    <Application.Resources>
+        <sys:String x:Key="strApp">Hello, Applicationworld!
+            </sys:String>
+    </Application.Resources>
+</Application>
+    
+<!--Startup="EventsWindow.xaml">-->
+<!--Startup="ResourceSample.xaml">-->
+<!--Startup="ExtendedResourceSample.xaml">-->
+<!--Startup="ResourcesFromCodeBehindSample.xaml">-->

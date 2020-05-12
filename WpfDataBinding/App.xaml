@@ -1,0 +1,31 @@
+﻿<Application x:Class="WpfDataBinding.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WpfDataBinding"
+             StartupUri="ListView_control.ListViewGridViewCellTemplateSample.xaml">
+    <Application.Resources>
+    </Application.Resources>
+</Application>
+
+<!--StartupUri="1.DataWindow.xaml">-->
+<!--StartupUri="2.DataContextSample.xaml">-->
+<!--StartupUri="3.ChangeNotificationSample.xaml">-->
+<!--StartupUri="4.ConverterSample.xaml">-->
+<!--StartupUri="5.StringFormatSample.xaml">-->
+<!--StartupUri="6.StringFormatCultureSample.xaml">-->
+<!--StartupUri="7.DatePickerSample.xaml">-->
+
+<!--StartupUri="ListBox_control.ListBoxSample.xaml">-->
+<!--StartupUri="ListBox_control.ListBoxDataBindingSample.xaml">-->
+<!--StartupUri="ListBox_control.ListBoxSelectionSample.xaml">-->
+
+<!--StartupUri="ComboBox_control.ComboBoxSample.xaml">-->
+<!--StartupUri="ComboBox_control.ComboBoxCustomContentSample.xaml">-->
+<!--StartupUri="ComboBox_control.ComboBoxDataBindingSample.xaml">-->
+<!--StartupUri="ComboBox_control.ComboBoxEditableSample.xaml">-->
+<!--StartupUri="ComboBox_control.ComboBoxSelectionSample.xaml">-->
+
+<!--StartupUri="ListView_control.ListViewDataBindingSample.xaml">-->
+<!--StartupUri="ListView_control.ListViewItemTemplateSample.xaml">-->
+<!--StartupUri="ListView_control.ListViewGridViewSample.xaml">-->
+<!--StartupUri="ListView_control.ListViewGridViewCellTemplateSample.xaml">-->
